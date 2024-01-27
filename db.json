@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
-      "telefono": "juan@juan.com",
-      "notas": "Nueva Nota",
-      "id": "1"
-    },
-    {
       "nombre": "Karen",
       "empresa": "Codigo Con Juan",
       "email": "karen_nuevo@juan.com",
@@ -37,22 +29,6 @@
       "telefono": "10901",
       "notas": "El Cliente desea un ecommerce",
       "id": "6"
-    },
-    {
-      "id": "1593",
-      "nombre": "comida",
-      "empresa": "323323",
-      "email": "juanesgarviedma23@gmail.com",
-      "telefono": "3234444306",
-      "notas": "dsdsdsds"
-    },
-    {
-      "nombre": "Juan Esteban Garcia v",
-      "empresa": "baloa",
-      "email": "juanesgarviedma23@gmail.com",
-      "telefono": "juanesgarviedma23@gmail.com",
-      "notas": "ddd",
-      "id": "3f6a"
     }
   ]
 }
