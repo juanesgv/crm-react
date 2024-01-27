@@ -1,10 +1,10 @@
 {
   "clientes": [
     {
-      "nombre": "Juan (Actualizado)",
+      "nombre": "Juan",
       "empresa": "Codigo Con Juan",
       "email": "juan@juan.com",
-      "telefono": "102013313",
+      "telefono": "juan@juan.com",
       "notas": "Nueva Nota",
       "id": "1"
     },
@@ -45,6 +45,14 @@
       "email": "juanesgarviedma23@gmail.com",
       "telefono": "3234444306",
       "notas": "dsdsdsds"
+    },
+    {
+      "nombre": "Juan Esteban Garcia v",
+      "empresa": "baloa",
+      "email": "juanesgarviedma23@gmail.com",
+      "telefono": "juanesgarviedma23@gmail.com",
+      "notas": "ddd",
+      "id": "3f6a"
     }
   ]
 }
